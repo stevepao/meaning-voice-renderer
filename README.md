@@ -319,4 +319,7 @@ If you want to try this without a reorg, pilot it with one launch. Have PMM publ
 
 ---
 
+## License
+
+© Hillwork, LLC 
 This work is licensed under a Creative Commons Attribution 4.0 International License.
