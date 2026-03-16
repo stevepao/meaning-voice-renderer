@@ -218,7 +218,7 @@ Body: Most umbrellas are either bulky or unreliable. PocketShield folds small en
 ## Inspecting the actual inputs
 I’m including the sample Markdown files used for this umbrella example as a downloadable bundle. The important thing is not the umbrella—it’s the structure.
 
-Download: https://github.com/stevepao/meaning-voice-renderer
+Download: https://github.com/stevepao/meaning-voice-renderer/archive/refs/tags/V1.0.0.zip
 
 ---
 
