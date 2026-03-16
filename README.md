@@ -315,3 +315,8 @@ If you want to try this without a reorg, pilot it with one launch. Have PMM publ
 - `MESSAGING.md` — example of meaning as an explicit artifact
 - `VOICE.md` — example of rendering constraints
 - `PERSONALIZATION.md` — example of constrained local context
+- `LICENSE` - Creative Commons Attribution 4.0 International License
+
+---
+
+This work is licensed under a Creative Commons Attribution 4.0 International License.
